@@ -2,7 +2,7 @@
 
 ## O que é?
  
- Projeto de um analisador de números, desenvolvido com HTML5, CSS3 e Javascript durante a aula de Javascript da plataforma de ensino Curso em Vídeo.
+ Projeto de um analisador de números, desenvolvido durante a aula de Javascript na plataforma de ensino Curso em Vídeo. 
  
 ### Ferramentas: 
 
